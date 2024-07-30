@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/wscube_movie_react/static/css/main.ef05e4e0.css",
+    "main.js": "/wscube_movie_react/static/js/main.cb5b4820.js",
+    "static/js/453.e3cb7eea.chunk.js": "/wscube_movie_react/static/js/453.e3cb7eea.chunk.js",
+    "static/media/logo.svg": "/wscube_movie_react/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/wscube_movie_react/index.html",
+    "main.ef05e4e0.css.map": "/wscube_movie_react/static/css/main.ef05e4e0.css.map",
+    "main.cb5b4820.js.map": "/wscube_movie_react/static/js/main.cb5b4820.js.map",
+    "453.e3cb7eea.chunk.js.map": "/wscube_movie_react/static/js/453.e3cb7eea.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ef05e4e0.css",
+    "static/js/main.cb5b4820.js"
+  ]
+}
